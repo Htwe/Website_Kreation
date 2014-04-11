@@ -1,4 +1,8 @@
 <?php
+
+//test test test test
+
+
 //Creating connection
 $con = mysql_connect("127.0.0.1","root","");
 //Checking connection
