@@ -1,7 +1,7 @@
 <?php
 
 //test test test test
-
+//test by sanmathi.
 
 //Creating connection
 $con = mysql_connect("127.0.0.1","root","");
